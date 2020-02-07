@@ -1,8 +1,6 @@
 class Dog
 
-  def initialize(name, breed)
-    @name[breed] = [name]
-  end 
+  def initialize(name, breed=""
   
 
 
